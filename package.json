@@ -2,7 +2,7 @@
   "name": "test",
   "version": "1.0.0",
   "description": "",
-  "main": "js/index.js",
+  "main": "index.js",
   "scripts": {
     "dev": "parcel index.hbs",
     "build": "parcel build index.hbs"
