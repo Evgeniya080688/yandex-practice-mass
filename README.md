@@ -15,3 +15,5 @@
 ## Контакты
 
 Автор: Паладина Евгения
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/70d5a320-a25e-4c2a-8731-abe9776aacbb/deploy-status)](https://app.netlify.com/sites/elegant-vacherin-aefb39/deploys)
